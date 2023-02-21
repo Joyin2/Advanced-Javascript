@@ -51,8 +51,17 @@
 // let result = add(2,3)
 // console.log(result)
 
-function sub(a,b){
-    return (a-b)
+// function sub(a,b){
+//     return (a-b)
+// }
+// let result = sub(3,5)
+// console.log(result)
+
+let firstName = "Joyin"
+let lastName = "Laskar"
+
+function fullName(firstName, lastName){
+    return `${firstName} ${lastName}`
 }
-let result = sub(3,5)
-console.log(result)
+let hello = `Hello ${fullName(firstName, lastName)}`
+document.write(hello)
