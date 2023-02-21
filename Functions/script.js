@@ -35,12 +35,18 @@
 
 
 
-const myobj ={
-    name : "joyin",
-    game : function(){
-        return `GTA ${name}` ;
-    }
+// const myobj ={
+//     name : "joyin",
+//     game : function(){
+//         return `GTA ${name}` ;
+//     }
     
+// }
+// let name = "five"
+// console.log(myobj.game(name))
+
+function add(a,b){
+    return (a+b)
 }
-let name = "five"
-console.log(myobj.game(name))
+let result = add(2,3)
+console.log(result)
