@@ -73,3 +73,13 @@
 // let hello = `${fullname(firstName, middleName, lastName)}`
 // document.write(hello)
 
+
+// for in loop
+
+
+
+
+
+
+// *****function with multiple arguments*****
+
