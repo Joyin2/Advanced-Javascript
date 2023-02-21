@@ -45,8 +45,14 @@
 // let name = "five"
 // console.log(myobj.game(name))
 
-function add(a,b){
-    return (a+b)
+// function add(a,b){
+//     return (a+b)
+// }
+// let result = add(2,3)
+// console.log(result)
+
+function sub(a,b){
+    return (a-b)
 }
-let result = add(2,3)
+let result = sub(3,5)
 console.log(result)
