@@ -57,11 +57,18 @@
 // let result = sub(3,5)
 // console.log(result)
 
-let firstName = "Joyin"
-let lastName = "Laskar"
+// let firstName = "Joyin"
+// let lastName = "Laskar"
 
-function fullName(firstName, lastName){
-    return `${firstName} ${lastName}`
-}
-let hello = `Hello ${fullName(firstName, lastName)}`
-document.write(hello)
+// function fullName(firstName, lastName){
+//     return `${firstName} ${lastName}`
+// }
+// let hello = `Hello ${fullName(firstName, lastName)}`
+// document.write(hello)
+
+// let middleName = "Mahmmad Aslam"
+// function fullname(firstName, middleName, lastName){
+//     return `${firstName} ${middleName} ${lastName}`
+// }
+// let hello = `${fullname(firstName, middleName, lastName)}`
+// document.write(hello)
