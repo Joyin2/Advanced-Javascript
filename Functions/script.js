@@ -93,6 +93,14 @@
 
 
 
+// ****************anonymous function****************
+var funExp = function(a,b){
+    return total = a+b;
+}
+var sum = funExp(20,36)
+console.log(sum);
+
+
 
 
 // *****function with multiple arguments*****
