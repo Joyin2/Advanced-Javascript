@@ -17,6 +17,7 @@
 // }
 
 for(i=1; i<=10; i++){
-    console.log(i);
     
+    var tableOf = 7;
+    console.log(` ${tableOf} * ${i} = ${tableOf*i} `);
 }
