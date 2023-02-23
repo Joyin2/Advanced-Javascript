@@ -15,9 +15,10 @@
 //     console.log("num")
 //     num++
 // }
+let tableOf = prompt("Which table you want to print")
 
 for(i=1; i<=10; i++){
     
-    var tableOf = 7;
-    console.log(` ${tableOf} * ${i} = ${tableOf*i} `);
+    // var tableOf = 7;
+    document.write(` ${tableOf} x ${i} = ${tableOf*i} <br>`);
 }
