@@ -74,7 +74,12 @@
 // document.write(hello)
 
 
-// for in loop
+// function sum(a,b) {
+//     var total= a+b;
+//     console.log(total);    
+// }
+// sum(23,54)
+// sum(23,23)
 
 
 
