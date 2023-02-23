@@ -83,6 +83,15 @@
 
 
 
+// ****************function expression****************
+
+// function sum(a,b){
+//     return total = a+b;
+// }
+// let z = sum(20,30)
+// console.log(z);
+
+
 
 
 
