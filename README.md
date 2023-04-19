@@ -1,1 +1,1 @@
-# Advanced-Javascript
+# Javascript-Practice
