@@ -25,4 +25,4 @@ const newString = (str)=>{
         )
     }
 }
-console.log(newString("hello"));
+console.log(newString("helloro"));
